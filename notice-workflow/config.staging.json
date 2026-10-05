@@ -1,0 +1,7 @@
+{
+  "schedule": "0 0 * * * *",
+  "chainSelectorName": "ethereum-mainnet",
+  "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "registerUrl": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=stablecoin&order=newest&per_page=3",
+  "maxDocuments": 3
+}

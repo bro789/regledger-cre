@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <title>RegLedger original project mark</title>
+  <rect width="480" height="480" rx="86" fill="#146a59"/>
+  <rect x="111" y="105" width="214" height="260" rx="19" fill="#a6c9b8"/>
+  <rect x="141" y="79" width="214" height="260" rx="19" fill="#f2f6f4"/>
+  <path d="M179 136h126M179 174h95M179 212h126" fill="none" stroke="#146a59" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="207" cy="281" r="23" fill="#146a59"/>
+  <circle cx="283" cy="281" r="23" fill="#bd862e"/>
+  <path d="M230 281h30" stroke="#547075" stroke-width="10" stroke-linecap="round"/>
+</svg>

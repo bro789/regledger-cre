@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>RegLedger · Evidence workbench</title><link rel="stylesheet" href="style.css"><script src="app.js" type="module"></script></head>
+<body>
+<header><a class="brand" href="./">Reg<span>Ledger</span></a><span class="pill">READ-ONLY PROTOTYPE</span></header>
+<main>
+  <section class="intro"><p class="eyebrow">LEGAL REVIEW, WITH THE SOURCES ATTACHED</p><h1>One review packet.<br>Two distinct sources.</h1><p class="lead">Preserve regulatory publication context alongside the exact token state observed on Ethereum. Verify the content, inspect the sources, and keep applicability decisions with the reviewer.</p></section>
+  <section class="toolbar" aria-label="Load a review packet"><button id="load-example">Load captured example</button><label class="upload" for="packet-file">Import JSON packet<input id="packet-file" type="file" accept=".json,application/json"></label><button id="download" class="secondary" disabled>Export verified packet</button></section>
+  <div id="status" role="status" aria-live="polite">Choose the captured public example or import a packet.</div>
+  <section id="packet" hidden>
+    <div class="packet-heading"><div><p class="eyebrow">REVIEW PACKET</p><h2>Sources ready for inspection</h2></div><span class="verified">SHA-256 matched</span></div>
+    <div class="facts"><article><h3>Observed at</h3><strong id="observed"></strong><p>Historical capture time; loading this example does not fetch a new observation.</p></article><article><h3>USDC operational state</h3><strong id="paused"></strong><p id="priority"></p></article><article><h3>Ethereum finalized block</h3><strong id="block"></strong><p id="block-time"></p></article></div>
+    <section class="panel"><h3>Regulatory publication queue</h3><p class="small">Document types are preserved. Each entry requires an applicability review.</p><div id="documents"></div></section>
+    <section class="panel evidence"><h3>Chain &amp; artifact provenance</h3><dl><dt>Token contract</dt><dd id="contract"></dd><dt>Block hash</dt><dd id="block-hash"></dd><dt>Packet SHA-256</dt><dd id="packet-hash"></dd><dt>Register response SHA-256</dt><dd id="response-hash"></dd></dl></section>
+    <section class="panel scope"><h3>What this evidence establishes</h3><p id="source-scope"></p><p id="connection"></p><p id="assurance"></p></section>
+  </section>
+  <section id="method" class="method"><h2>CRE coordinates the collection</h2><ol><li><b>Fetch</b><span>Public Federal Register metadata through HTTPClient</span></li><li><b>Read</b><span>USDC paused() at one finalized Ethereum block</span></li><li><b>Recheck</b><span>Confirm the block hash stayed the same</span></li><li><b>Package</b><span>Normalize sources and calculate the content hash</span></li></ol><p>Official CLI simulation is pending account login. This example is a real public-source capture and replay; it is not a successful CRE simulation or a deployed DON workflow.</p></section>
+</main>
+<footer>RegLedger · BLI Legal Tech Hackathon 2 prototype · Original code MIT · No wallet, transaction or payment</footer>
+</body></html>

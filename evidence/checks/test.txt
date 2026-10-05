@@ -1,0 +1,19 @@
+bun test v1.4.2 (744846f84)
+
+core.test.ts:
+(pass) source provenance and legal meaning > preserves Proposed Rule and requires review rather than declaring compliance [17.82ms]
+(pass) source provenance and legal meaning > paused token only raises operational priority [2.18ms]
+(pass) source provenance and legal meaning > rejects spoofed federalregister domain [1.21ms]
+(pass) source provenance and legal meaning > rejects nonofficial PDF source [0.18ms]
+(pass) source provenance and legal meaning > rejects duplicate document IDs [0.13ms]
+(pass) source provenance and legal meaning > rejects unknown type and invalid date [0.21ms]
+(pass) source provenance and legal meaning > bounds response count [0.09ms]
+(pass) chain provenance and artifact integrity > rejects wrong chain and contract [0.25ms]
+(pass) chain provenance and artifact integrity > rejects stale and future block timestamps [0.14ms]
+(pass) chain provenance and artifact integrity > canonical hash is key order independent and changes on tamper [2.74ms]
+(pass) chain provenance and artifact integrity > rejects undefined and nonfinite values [0.29ms]
+
+ 11 pass
+ 0 fail
+ 22 expect() calls
+Ran 11 tests across 1 file. [136.00ms]

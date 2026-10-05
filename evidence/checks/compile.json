@@ -1,0 +1,13 @@
+{
+  "check": "compile",
+  "exit_code": 0,
+  "elapsed_seconds": 82.469,
+  "output_file": "C:\\Users\\likey\\Desktop\\\u9879\u76ee\\\u81ea\u52a8\u6253kaggle\\dorahacks\\bli-cre\\evidence\\checks\\compile.txt",
+  "output_sha256": "2f05d96a26ed46909f476abb2412d26220e9b27d4d326b91126a3dc5e4c6cf42",
+  "artifact": {
+    "path": "C:\\Users\\likey\\Desktop\\\u9879\u76ee\\\u81ea\u52a8\u6253kaggle\\dorahacks\\bli-cre\\notice-workflow\\regledger.wasm",
+    "bytes": 2690738,
+    "sha256": "16fc7d729e8fedaad5ca198caac237c5fd8a832f4c3f51ee5006f7a413ae0d82",
+    "wasm_magic_valid": true
+  }
+}

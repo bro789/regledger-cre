@@ -1,0 +1,23 @@
+{
+  "execution_mode": "direct-public-source-capture-not-cre",
+  "sources": {
+    "federal_register": {
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=stablecoin&order=newest&per_page=3",
+      "observed_at_utc": "2026-10-05T04:56:00.383665+00:00",
+      "http_status": 200,
+      "body_sha256": "6bf96bd0b5819d87f4dd3248e5b681136fb220152aff393c2fe050810564ed19"
+    },
+    "ethereum": {
+      "url": "https://ethereum-rpc.publicnode.com",
+      "observed_at_utc": "2026-10-05T04:56:07.741308+00:00",
+      "http_status": 200,
+      "body_sha256": "746b2f7eb18e9072e716de8326c18412323b70b48a8534d9871f82782acb8d07"
+    },
+    "ethereum_paused": {
+      "url": "https://ethereum-rpc.publicnode.com",
+      "observed_at_utc": "2026-10-05T04:56:08.756971+00:00",
+      "http_status": 200,
+      "body_sha256": "694b53f0bb39a8dea718fded5321e239268c553b068a8c5ed13166e96ceb8169"
+    }
+  }
+}

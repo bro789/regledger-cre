@@ -1,0 +1,83 @@
+{
+  "description": "Documents matching 'stablecoin'",
+  "count": 159,
+  "total_pages": 50,
+  "next_page_url": "https://www.federalregister.gov/api/v1/documents?conditions%5Bterm%5D=stablecoin&format=json&order=newest&page=2&per_page=3",
+  "results": [
+    {
+      "title": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
+      "type": "Proposed Rule",
+      "abstract": "FinCEN is issuing a finding and notice of proposed rulemaking, pursuant to section 9714(a) of the Combating Russian Money Laundering Act (Public Law 116-283), as amended by section 6106(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81), finding transactions involving any company operating outside of the United States that is controlled by the A7 Network, a sanctions evasion and money laundering service with ties to Russia, leveraged by a wide range of illicit actors, including Iran and its terrorist proxies, to be a class of transactions of primary money laundering concern in connection with Russian illicit finance and proposing the imposition of a prohibition on certain transmittals of funds, by any covered financial institution, involving that class of transactions.",
+      "document_number": "2026-20371",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20371.pdf",
+      "public_inspection_pdf_url": null,
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Financial Crimes Enforcement Network",
+          "name": "Financial Crimes Enforcement Network",
+          "id": 194,
+          "url": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/194",
+          "parent_id": 497,
+          "slug": "financial-crimes-enforcement-network"
+        }
+      ],
+      "excerpts": "strangled the ruble <span class=\"match\">stablecoin</span>\u201d (July 29. 2026), \n https://www.elliptic.co/insights/the-fall-of-a7a5-how-sanctions-strangled-the-ruble-<span class=\"match\">stablecoin</span>/. \n \n \n \n \n 56 \n \u2009\n See \n Hannah Curtis, \u201cOne wallet now holds 94.5% of A7A5's supply,\u201d Crystal Intelligence (July 30, 2026), \n https://crystalintelligence.com/<span class=\"match\">stablecoin</span>/one-wallet-now-holds-94-5-of-a7a5s-supply/. \n \n \n \n The A7 Network has most often used the A7A5 tokens as a non-freezable, bridging asset to convert into other, more widely accepted digital assets, such as the <span class=\"match\">stablecoin</span> Tether (USDT), and"
+    },
+    {
+      "title": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
+      "type": "Rule",
+      "abstract": "The Department of the Treasury is issuing this interim final rule on behalf of the Stablecoin Certification Review Committee (Committee). The Committee is adopting interim procedural regulations and forms to implement its responsibilities under section 4(c) of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act or the Act). The regulations set out a process to facilitate the Committee's approval or denial of certifications submitted by State payment stablecoin regulators under section 4(c)(4) of the GENIUS Act, and prescribe the form of such certifications. This interim final rule will ensure that interim forms and procedural regulations are in place to facilitate submission of certifications by the effective date of the GENIUS Act, and the Committee intends to revise these forms and procedural regulations, as appropriate, following consideration of comments.",
+      "document_number": "2026-19966",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19966/forms-and-procedures-for-review-of-state-certifications-by-the-stablecoin-certification-review",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19966.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2026-19966.pdf?1790685913",
+      "publication_date": "2026-09-30",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        }
+      ],
+      "excerpts": "regarding payment <span class=\"match\">stablecoins</span>; (ii) any regulations regarding payment <span class=\"match\">stablecoins</span> or that apply to a State qualified payment <span class=\"match\">stablecoin</span> issuer issued by a State payment <span class=\"match\">stablecoin</span> regulator of the State or another regulator of the State; and (iii) any interpretations or guidance thereunder, only to the extent they are enforceable against State qualified payment <span class=\"match\">stablecoin</span> issuers.\n 14 \n \n \n \n \n 14 \n \u200991 FR 16844, 16847.\n \n \n \n State qualified payment <span class=\"match\">stablecoin</span> issuer. \n The Committee defines the term \u201cState qualified payment <span class=\"match\">stablecoin</span> issuer\u201d to have"
+    },
+    {
+      "title": "Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins",
+      "type": "Proposed Rule",
+      "abstract": "The Board of Governors of the Federal Reserve System (Board) proposes to issue regulations that would establish procedures to be followed by an insured State member bank that seeks to obtain Board approval for a subsidiary to issue payment stablecoins pursuant to the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act).",
+      "document_number": "2026-19899",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/29/2026-19899/application-procedures-for-board-supervised-insured-depository-institutions-seeking-approval-for-a",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-29/pdf/2026-19899.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2026-19899.pdf?1790599519",
+      "publication_date": "2026-09-29",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "parent_id": null,
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "excerpts": "to request to be waived? \n \n \n Question 17: Certain <span class=\"match\">stablecoin</span> issuers currently issue more than one payment <span class=\"match\">stablecoin</span>; for example, some <span class=\"match\">stablecoin</span> issuers provide \u201cwhite label\u201d services for <span class=\"match\">stablecoin</span> issuance. How should the Board review applications from entities proposing to issue more than one payment <span class=\"match\">stablecoin</span>? What are the advantages and disadvantages of requiring a new application, as part of this proposed rule or as a condition of the approval of an application, for each new <span class=\"match\">stablecoin</span> issued by a Board-supervised PPSI? What are the advantages"
+    }
+  ]
+}

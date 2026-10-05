@@ -1,0 +1,28 @@
+$ cre-compile main.ts regledger.wasm
+🚀 Compiling workflow
+📁 Input:   C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\main.ts
+🧪 JS out:  C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.js
+🎯 WASM out:C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.wasm
+
+📦 Step 1: Compiling JS...
+📁 Using input file: C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\main.ts
+Bundled 1 module in 274ms
+
+  regledger.js  0.84 MB  (entry point)
+
+✅ Built: C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.js
+
+🔨 Step 2: Compiling to WASM...
+🔨 Compiling to WASM
+📁 Input:  C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.js
+🎯 Output: C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.wasm
+[cre-sdk-javy-plugin] Detected platform: win32, arch: x64
+[cre-sdk-javy-plugin] Downloading sha256: https://github.com/bytecodealliance/javy/releases/download/v8.1.0/javy-x86_64-windows-v8.1.0.gz.sha256
+[cre-sdk-javy-plugin] Downloading binary: https://github.com/bytecodealliance/javy/releases/download/v8.1.0/javy-x86_64-windows-v8.1.0.gz
+[cre-sdk-javy-plugin] Verifying checksum...
+[cre-sdk-javy-plugin] Decompressing .gz...
+[cre-sdk-javy-plugin] Writing executable: C:\Users\likey\.cache\javy\v8.1.0\win32-x64\javy.exe
+[cre-sdk-javy-plugin] Installed Javy at C:\Users\likey\.cache\javy\v8.1.0\win32-x64\javy.exe
+✅ Compiled: C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.wasm
+
+✅ Workflow built: C:\Users\likey\Desktop\项目\自动打kaggle\dorahacks\bli-cre\notice-workflow\regledger.wasm
