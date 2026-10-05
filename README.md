@@ -2,7 +2,7 @@
 
 A reproducible evidence packet for lawyers reviewing stablecoin integrations: Federal Register publication metadata alongside the exact operational state of Ethereum USDC at one finalized block. The CRE workflow coordinates the API fetch, fixed-block contract read, block-hash recheck, normalization and content hash.
 
-The repository root contains `project.yaml`; run all project-root commands from that directory. To review the captured example without installing a tool, use the published demo URL recorded below after publication.
+The repository root contains `project.yaml`; run all project-root commands from that directory. [Public source](https://github.com/bro789/regledger-cre) and [the free static workbench](https://bro789.github.io/regledger-cre/) let reviewers inspect the project and captured packet. This site displays the real captured example; it does not run a CRE workflow in the browser.
 
 **Current checkpoint:** 11 tests and TypeScript type checking pass. The real SDK compilation produced a valid 2,690,738-byte WASM workflow. Public data capture, independent Python SHA-256 verification, and browser import/export/tamper rejection succeeded. The actual official CRE CLI simulation command exited with `NOT_LOGGED_IN`; its logs are in `evidence/checks/`. Nothing has been submitted to DoraHacks yet.
 
@@ -58,4 +58,4 @@ bun replay.ts
 
 [Best workflow with CRE](https://dorahacks.io/hackathon/bounty/1362) advertises two awards valued at $1,000 each. [BLI Legal Tech Hackathon 2](https://dorahacks.io/hackathon/legal-hack-2026/detail) displays a November 1, 2026, 09:01 China-time deadline. Prizes may change or be withdrawn. China eligibility and payout currency are not established by the public text inspected.
 
-Before formal entry: complete the official CRE login and real simulation, publish only this reviewed project, replace the public project/demo placeholders in `submission/draft.md`, and complete any actual required DoraHacks fields or agreements. No organizer message, registration, deployment or transaction has been made by this project.
+Before formal entry: complete the official CRE login and real simulation, and complete any actual required DoraHacks fields or agreements. The reviewed source and static workbench have been published on GitHub/Pages. No organizer message, competition registration/submission, CRE network deployment or transaction has been made by this project.

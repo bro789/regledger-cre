@@ -27,10 +27,12 @@ CRE is the orchestration layer: HTTP and EVM capabilities connect the government
 - Captured packet hash independently reproduced with Python: `18d86a0d72ba48b3aad2b0ed0b75186a586867c278f7c337e3e8292501a9048d`.
 - **Actual CRE CLI simulation attempt: exited 1, `NOT_LOGGED_IN`.** Account login is pending; direct capture/replay is not presented as meeting that requirement.
 
-## Public entry fields to complete after publication
+## Public entry fields
 
-- Repository: pending root publication.
-- Demo: pending root publication / reviewed local workbench.
+- Repository: https://github.com/bro789/regledger-cre
+- Demo: https://bro789.github.io/regledger-cre/
+- Builder profile: https://github.com/bro789
+- Logo: `assets/logo.png` — original MIT project mark, RGB PNG, 480×480; SVG source included.
 - Successful simulation log and workflow output: pending actual official CLI run.
 - Team, email and other identity fields: only actual authorized account information.
 
